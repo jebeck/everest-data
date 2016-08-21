@@ -1,0 +1,24 @@
+{
+  "name": "everest-data",
+  "version": "0.1.0",
+  "description": "Wikipedia's list of people who died climbing Mount Everest as JSON data.",
+  "main": "died-climbing-Everest.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jebeck/everest-data.git"
+  },
+  "keywords": [
+    "data",
+    "Everest",
+    "JSON"
+  ],
+  "author": "Jana E. Beck",
+  "license": "CC-BY-SA-3.0",
+  "bugs": {
+    "url": "https://github.com/jebeck/everest-data/issues"
+  },
+  "homepage": "https://github.com/jebeck/everest-data#readme"
+}
