@@ -240,6 +240,7 @@
    "Expedition": "Japanese Skiing Expedition",
    "Nationality": "Nepal",
    "Cause of death": "Avalanche",
+   "General location": null,
    "Elevation": 5525
  },
  {
@@ -249,6 +250,7 @@
    "Expedition": "Japanese Skiing Expedition",
    "Nationality": "Japan",
    "Cause of death": "Heart attack",
+   "General location": null,
    "Elevation": 6150
  },
  {
@@ -258,6 +260,7 @@
    "Expedition": "International Expedition of 1971",
    "Nationality": "India",
    "Cause of death": "Succumbed after falling and being suspended above a crevice during a blizzard",
+   "General location": null,
    "Elevation": 6900
  },
  {
@@ -285,6 +288,7 @@
    "Expedition": "French West Ridge Direct expedition",
    "Nationality": "France",
    "Cause of death": "Avalanche",
+   "General location": null,
    "Elevation": 6400
  },
  {
@@ -294,6 +298,7 @@
    "Expedition": "French West Ridge Direct expedition",
    "Nationality": "Nepal",
    "Cause of death": "Avalanche",
+   "General location": null,
    "Elevation": 6400
  },
  {
@@ -303,6 +308,7 @@
    "Expedition": "French West Ridge Direct expedition",
    "Nationality": "Nepal",
    "Cause of death": "Avalanche",
+   "General location": null,
    "Elevation": 6400
  },
  {
@@ -312,6 +318,7 @@
    "Expedition": "French West Ridge Direct expedition",
    "Nationality": "Nepal",
    "Cause of death": "Avalanche",
+   "General location": null,
    "Elevation": 6400
  },
  {
@@ -321,6 +328,7 @@
    "Expedition": "French West Ridge Direct expedition",
    "Nationality": "Nepal",
    "Cause of death": "Avalanche",
+   "General location": null,
    "Elevation": 6400
  },
  {
@@ -330,6 +338,7 @@
    "Expedition": "French West Ridge Direct expedition",
    "Nationality": "Nepal",
    "Cause of death": "Avalanche",
+   "General location": null,
    "Elevation": 6400
  },
  {
@@ -339,6 +348,7 @@
    "Expedition": null,
    "Nationality": "China",
    "Cause of death": "Exhaustion, fall",
+   "General location": null,
    "Elevation": 8500
  },
  {
@@ -482,6 +492,7 @@
    "Expedition": "Whittaker American Expedition",
    "Nationality": "United States",
    "Cause of death": "Fall",
+   "General location": null,
    "Elevation": 8000
  },
  {
@@ -547,6 +558,7 @@
    "Expedition": "Spanish Expedition",
    "Nationality": "Nepal",
    "Cause of death": "Internal hemorrhage",
+   "General location": null,
    "Elevation": 6770
  },
  {
@@ -621,6 +633,7 @@
    "Expedition": "Micheal Lane British North Face Expedition",
    "Nationality": "United Kingdom",
    "Cause of death": "Avalanche",
+   "General location": null,
    "Elevation": 6238
  },
  {
@@ -640,6 +653,7 @@
    "Expedition": "Australian-New Zealand Expedition",
    "Nationality": "Australia",
    "Cause of death": "Fall",
+   "General location": null,
    "Elevation": 8000
  },
  {
@@ -649,6 +663,7 @@
    "Expedition": "Australian-New Zealand Expedition",
    "Nationality": "Australia",
    "Cause of death": "Fall",
+   "General location": null,
    "Elevation": 8000
  },
  {
@@ -687,6 +702,7 @@
    "Expedition": "Basque Expedition",
    "Nationality": "Spain",
    "Cause of death": "Fall",
+   "General location": null,
    "Elevation": 7300
  },
  {
@@ -705,6 +721,7 @@
    "Expedition": "Indian Expedition",
    "Nationality": "India",
    "Cause of death": "Fall",
+   "General location": null,
    "Elevation": 7986
  },
  {
@@ -760,6 +777,7 @@
    "Expedition": "Eiselin Sports Expedition",
    "Nationality": "Switzerland",
    "Cause of death": "Avalanche",
+   "General location": null,
    "Elevation": 7315
  },
  {
@@ -788,6 +806,7 @@
    "Expedition": null,
    "Nationality": "Nepal",
    "Cause of death": "Fall",
+   "General location": null,
    "Elevation": 7700
  },
  {
@@ -834,6 +853,7 @@
    "Expedition": "International",
    "Nationality": "France",
    "Cause of death": "Exposure",
+   "General location": null,
    "Elevation": 7700
  },
  {
@@ -843,6 +863,7 @@
    "Expedition": null,
    "Nationality": "Nepal",
    "Cause of death": "Avalanche",
+   "General location": null,
    "Elevation": 7200
  },
  {
@@ -852,6 +873,7 @@
    "Expedition": null,
    "Nationality": "Nepal",
    "Cause of death": "Fall",
+   "General location": null,
    "Elevation": 8200
  },
  {
@@ -861,6 +883,7 @@
    "Expedition": null,
    "Nationality": "Nepal",
    "Cause of death": "Fall",
+   "General location": null,
    "Elevation": 8200
  },
  {
@@ -1043,6 +1066,7 @@
    "Expedition": "Japanese solo expedition",
    "Nationality": "Japan",
    "Cause of death": "Fall",
+   "General location": null,
    "Elevation": 8700
  },
  {
@@ -1088,6 +1112,7 @@
    "Expedition": "Japanese Expedition",
    "Nationality": "Japan",
    "Cause of death": "Disappearance (likely accidental death during climb)",
+   "General location": null,
    "Elevation": 8350
  },
  {
@@ -1201,6 +1226,7 @@
    "Expedition": "Australian Expedition",
    "Nationality": "Australia",
    "Cause of death": "150m fall. He showed signs of Exhaustion, Dehydration, Cerebral Oedema, Retinal Hemorrages and possible blood clots in his upper legs.",
+   "General location": null,
    "Elevation": 8500
  },
  {
@@ -1228,6 +1254,7 @@
    "Expedition": "South Korean Expedition",
    "Nationality": "Nepal",
    "Cause of death": null,
+   "General location": null,
    "Elevation": 6900
  },
  {
@@ -1776,7 +1803,7 @@
    "Nationality": "United States",
    "Cause of death": "Fall into a crevasse",
    "General location": "Icefall",
-   "Specific locatione": "Icefall South",
+   "Specific location": "Icefall South",
    "Elevation": 5800
  },
  {
@@ -1806,6 +1833,7 @@
    "Expedition": "German",
    "Nationality": "Germany",
    "Cause of death": "Exposure",
+   "General location": null,
    "Elevation": 8000
  },
  {
@@ -2036,6 +2064,7 @@
    "Expedition": "International",
    "Nationality": "United Kingdom",
    "Cause of death": "Exhaustion",
+   "General location": null,
    "Elevation": 8600
  },
  {
@@ -2045,6 +2074,7 @@
    "Expedition": "International",
    "Nationality": "United States",
    "Cause of death": "Heart attack",
+   "General location": null,
    "Elevation": 7010
  },
  {
@@ -2186,6 +2216,7 @@
    "Expedition": "International",
    "Nationality": "Cambodia",
    "Cause of death": "Encountered inclement weather",
+   "General location": null,
    "Elevation": 4000
  },
  {
@@ -2195,6 +2226,7 @@
    "Expedition": "Destination Himalaya",
    "Nationality": "Nepal",
    "Cause of death": "Falling into a crevasse",
+   "General location": null,
    "Specific location": "Between Camps 1 and 2 in the Western Cwm"
  },
  {
@@ -2214,6 +2246,7 @@
    "Expedition": "7 Summits Club Everest expedition",
    "Nationality": "Russia",
    "Cause of death": "Suspected cardiac arrest",
+   "General location": null,
    "Specific location": "At 100m above ABC on north side",
    "Elevation": 6500
  },
@@ -2224,6 +2257,7 @@
    "Expedition": "Chinese expedition team",
    "Nationality": "Nepal",
    "Cause of death": "Fall",
+   "General location": null,
    "Specific location": "Between Camp 2 and Camp 3 on descent from Camp 4 (on south side)"
  },
  {
@@ -2253,6 +2287,7 @@
    "Expedition": "Zero to 8848 expedition",
    "Nationality": "South Korea",
    "Cause of death": "Suspected Altitude Sickness",
+   "General location": null,
    "Specific location": "On descent (south side)"
  },
  {

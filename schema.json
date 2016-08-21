@@ -1,0 +1,65 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "id": "https://github.com/jebeck/everest-data",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "Name": {
+        "type": "string"
+      },
+      "Date": {
+        "type": "string",
+        "pattern": "\\d\\d\\d\\d-\\d\\d(-\\d\\d)?"
+      },
+      "Age": {
+        "type": [
+          "number",
+          "null"
+        ]
+      },
+      "Expedition": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "Nationality": {
+        "type": "string"
+      },
+      "Cause of death": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "General location": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "Specific location": {
+        "type": "string"
+      },
+      "Elevation": {
+        "type": "integer",
+        "minimum": 0,
+        "maximum": 8848
+      },
+      "Cause of death details": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "Name",
+      "Date",
+      "Age",
+      "Expedition",
+      "Nationality",
+      "Cause of death",
+      "General location"
+    ],
+    "additionalProperties": false
+  }
+}
