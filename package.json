@@ -1,6 +1,6 @@
 {
   "name": "everest-data",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Wikipedia's list of people who died climbing Mount Everest as JSON data.",
   "main": "died-climbing-Everest.json",
   "scripts": {
